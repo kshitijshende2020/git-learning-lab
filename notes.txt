@@ -1,2 +1,3 @@
 A commit records a snapshot 
 Git keeps a history of commits
+Tip: use branches to work on changes separately.
