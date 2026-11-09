@@ -1,1 +1,1 @@
-I am learning Git.
+A commit records a snapshot 
